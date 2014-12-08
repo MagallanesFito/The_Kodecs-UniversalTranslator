@@ -1,7 +1,7 @@
 #Universal Translator from The_Kodecs team! 
 ==============================
 <center>
-<img src="http://www.unocero.com/wp-content/uploads/2013/05/Cu%C3%A1ntas-referencias-a-Star-Trek-en-pel%C3%ADculas-y-series-de-TV-recuerdas.jpg" style="margin: 0; padding: 0;">
+<img src="http://www.unocero.com/wp-content/uploads/2013/05/Cu%C3%A1ntas-referencias-a-Star-Trek-en-pel%C3%ADculas-y-series-de-TV-recuerdas.jpg" style="text-align: center;">
 </center>
 <h3>Description</h3>
 <p>The idea of my project was based on the "Star trek Universal translator" wich is a device that you tell something in your "Native" language and tells the same thing but in another language you were specified, this allows you to talk with other species (Aliens included).In this case, I don't know any alien, so my project is only based on the audio translation of other languages in the world.</p>
