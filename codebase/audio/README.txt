@@ -1,0 +1,1 @@
+This folder stores all the temporal audio files produced by the php script
