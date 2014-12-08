@@ -10,10 +10,10 @@
 <p>First of all, you need a microphone which you are going to use to tell something. After that, choose the language in which you said. Then select the language you want to hear the translation and push the button to start recording, when you finish click the "Translate" button to Translate (ironic :) ) everything. </p>
 
 <h3>Screenshots</h3>
-<img src="images/made.png" width="250" height="250"> <br />
-<img src="images/code.png" width="250" height="250"> <br />
-<img src="images/php.png" width="250" height="250"> <br />
-<img src="images/final.png" width="250" height="250" > <br />
+<img src="images/made.png"> <br />
+<img src="images/code.png"> <br />
+<img src="images/php.png"> <br />
+<img src="images/final.png"> <br />
 
 <h3>Programming languages</h3>
 <ul>
