@@ -8,5 +8,21 @@
 <p>First of all, you need a microphone which you are going to use to tell something. After that, choose the language in which you said. Then select the language you want to hear the translation and push the button to start recording, when you finish click the "Translate" button to Translate (ironic :) ) everything. </p>
 
 <h3>Screenshots</h3>
+<img src="images/made.png" width="250" height="250"> <br />
+<img src="images/code.png" width="250" height="250"> <br />
+<img src="images/php.png" width="250" height="250"> <br />
+<img src="images/final.png" width="250" height="250" > <br />
 
+<h3>Programming languages</h3>
+<ul>
+  <li>PHP</li>
+  <li>Javascript</li>
+  <li>HTML5</li>
+  <li>CSS</li>
+  <li>Semantic UI</li>
+  <li>Jquery</li>
+  <li>Google Speech API</li>
+</ul>
 
+<h3>Recognition</h3>
+<ul><li><a href="https://twitter.com/FragosoAdolfo" target="_blank">Adolfo Fragoso</a> From team The_Kodecs</li></ul>
